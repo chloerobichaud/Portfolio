@@ -6,4 +6,6 @@ Hi and welcome to my portfolio!
 
 Here is an example of a code I wrote to clean sample data from a [Simon-Flanker experiment](Assignment_3.md)
 
+Here is a sample of code I wrote to visualize the [COVID-19 pandemic] (Visualizing COVID)
+
 Questions? Email me at: [Chloe.Robichaud@dal.ca](mailto:chloe.robichaud@dal.ca)
