@@ -9,10 +9,11 @@ Here is an example of a code I wrote to clean sample data from a [Simon-Flanker 
 Here is a sample of code I wrote to visualize the COVID-19 pandemic: (https://github.com/chloerobichaud/Portfolio/blob/master/Visualizing%20COVID)
 
 Here are examples of codes I've written using DataCamp:
+
   [Working with Numpy Arrays](Portfolio.md)
   
-  [Simulating Random Walks](Portfolio 2.md)
+  [Simulating Random Walks](Portfolio2.md)
   
-  [Signal min, max, median](Portfolio 3.md)
+  [Signal min, max, median](Portfolio3.md)
 
 Questions? Email me at: [Chloe.Robichaud@dal.ca](mailto:chloe.robichaud@dal.ca)
