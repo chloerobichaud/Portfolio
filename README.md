@@ -10,7 +10,9 @@ Here is a sample of code I wrote to visualize the COVID-19 pandemic: (https://gi
 
 Here are examples of codes I've written using DataCamp:
   [Working with Numpy Arrays](Portfolio.md)
+  
   [Simulating Random Walks](Portfolio 2.md)
+  
   [Signal min, max, median](Portfolio 3.md)
 
 Questions? Email me at: [Chloe.Robichaud@dal.ca](mailto:chloe.robichaud@dal.ca)
