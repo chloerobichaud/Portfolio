@@ -12,8 +12,8 @@ Here are examples of codes I've written using DataCamp:
 
   [Working with Numpy Arrays](Portfolio.md)
   
-  [Simulating Random Walks](Portfolio2.md)
+  [Simulating Random Walks](Portfolio 2.md)
   
-  [Signal min, max, median](Portfolio3.md)
+  [Signal min, max, median](Portfolio 3.md)
 
 Questions? Email me at: [Chloe.Robichaud@dal.ca](mailto:chloe.robichaud@dal.ca)
