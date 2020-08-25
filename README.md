@@ -6,15 +6,15 @@ Hi and welcome to my portfolio!
 
 Below I've included an array of codes I've worked on:
 
-#### Reading in Files 
+### Reading in Files 
 
 Here is some code I've written to read in [.txt files ](https://github.com/chloerobichaud/Portfolio/blob/master/Reading%20In%20Files.py)
 
-#### Cleaning Sample Data 
+### Cleaning Sample Data 
 
 A demonstration in cleaning sample data from a [Simon-Flanker experiment](Assignment_3.md)
 
-#### Data Visualization  
+### Data Visualization  
 
 Here is a sample of code I wrote to visualize a study's [experimental design](https://github.com/chloerobichaud/Portfolio/blob/master/Visualizing%20Experimental%20Design) 
 
@@ -23,7 +23,7 @@ Code used to generate an [interactive raster plot](https://github.com/chloerobic
 
 This is a code used to generate a boxplot of the [simon-flanker data](https://github.com/chloerobichaud/Portfolio/blob/master/Box%20Plots.py)
 
-#### Coding Projects from DataCamp
+### Coding Projects from DataCamp
   [Working with Numpy Arrays](Portfolio.md)
   
   [Simulating Random Walks](https://github.com/chloerobichaud/Portfolio/blob/master/Portfolio%202.md)
@@ -33,6 +33,6 @@ This is a code used to generate a boxplot of the [simon-flanker data](https://gi
 
 ![Image](src)
 
-### Questions?
+## Questions?
 
 Email me at: [Chloe.Robichaud@dal.ca](mailto:chloe.robichaud@dal.ca)
