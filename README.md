@@ -18,8 +18,6 @@ A demonstration in cleaning sample data from a [Simon-Flanker experiment](Assign
 
 Here is a sample of code I wrote to visualize a study's [experimental design](https://github.com/chloerobichaud/Portfolio/blob/master/Visualizing%20Experimental%20Design) 
 
-Code used to generate an [interactive raster plot](https://github.com/chloerobichaud/Portfolio/blob/master/Interactive%20Raster%20Plot.py)
-
 
 This is a code used to generate a boxplot of the [simon-flanker data](https://github.com/chloerobichaud/Portfolio/blob/master/Box%20Plots.py)
 
